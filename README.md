@@ -1,22 +1,17 @@
 # 💫 About Me:
 # 👋 Hi, I'm Chinmay Sethi
 
-💻 Aspiring Software Engineer passionate about building scalable applications and strengthening my problem-solving skills through Data Structures & Algorithms.
+ Aspiring Software Engineer passionate about building scalable applications and strengthening my problem-solving skills through Data Structures & Algorithms.
 
 I enjoy turning ideas into real-world projects, developing full-stack applications, designing backend systems, and debugging complex issues. I believe the best way to learn is by building, experimenting, and staying curious.
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C++, SQL, HTML, CSS
-- **Frontend:** React, Tailwind CSS, EJS
-- **Backend:** Node.js, Express.js, REST APIs, MVC Architecture
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, Postman, Linux, npm
 
-🌱 **Currently Exploring:** Advanced Backend Development, System Design, Database Optimization, and Competitive Programming.
 
-⚡ **Fun Fact:** I genuinely enjoy debugging—understanding why something broke is one of my favorite parts of programming.
+ **Currently Exploring:** Advanced Backend Development, System Design, Database Optimization, and Competitive Programming.
 
-🚀 Always open to learning, collaborating, and building meaningful projects.
+ **Fun Fact:** I genuinely enjoy debugging—understanding why something broke is one of my favorite parts of programming.
+
+ Always open to learning, collaborating, and building meaningful projects.
  <br>
 
 
