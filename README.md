@@ -1,43 +1,22 @@
 # 💫 About Me:
-🚀 Hi, I'm **Chinmay Sethi**!
+# 👋 Hi, I'm Chinmay Sethi
 
-I'm a B.Tech student and aspiring Software Engineer passionate about building scalable applications and continuously sharpening my problem-solving skills through Data Structures and Algorithms.
+💻 Aspiring Software Engineer passionate about building scalable applications and strengthening my problem-solving skills through Data Structures & Algorithms.
 
-💻 I enjoy transforming ideas into real-world projects and understanding how technology works behind the scenes. Whether it's developing full-stack applications, designing backend logic, debugging tricky issues, or optimizing solutions, I love the process of learning and building.
+I enjoy turning ideas into real-world projects, developing full-stack applications, designing backend systems, and debugging complex issues. I believe the best way to learn is by building, experimenting, and staying curious.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, C++, SQL, HTML, CSS
+- **Frontend:** React, Tailwind CSS, EJS
+- **Backend:** Node.js, Express.js, REST APIs, MVC Architecture
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman, Linux, npm
 
-**Languages:**
-JavaScript • Python • C++ • SQL • HTML5 • CSS3
+🌱 **Currently Exploring:** Advanced Backend Development, System Design, Database Optimization, and Competitive Programming.
 
-**Frontend:**
-React • Tailwind CSS • EJS • Responsive Web Design • DOM Manipulation
+⚡ **Fun Fact:** I genuinely enjoy debugging—understanding why something broke is one of my favorite parts of programming.
 
-**Backend:**
-Node.js • Express.js • REST APIs • Authentication & Authorization • MVC Architecture
-
-**Databases:**
-PostgreSQL • MySQL • MongoDB • Database Design
-
-**Tools & Platforms:**
-Git • GitHub • VS Code • Postman • npm • Linux • Chrome DevTools
-
-**Core CS & Problem Solving:**
-Data Structures & Algorithms • Object-Oriented Programming • Debugging • Time & Space Complexity Analysis • Problem Solving
-
-🧠 I believe the best way to learn is by building, experimenting, and staying curious. I enjoy diving deep into concepts instead of just memorizing solutions, and I'm always looking for opportunities to improve my craft.
-
-🔍 Currently exploring:
-
-* Advanced Backend Development
-* Scalable System Design
-* PostgreSQL and Database Optimization
-* API Development Best Practices
-* Competitive Programming & DSA
-
-⚡ Fun fact: I can spend hours tracking down a single bug—not because I have to, but because understanding the root cause is one of my favorite parts of programming.
-
-Always open to learning, collaborating, and contributing to meaningful projects. Let's build something amazing together! 🚀
+🚀 Always open to learning, collaborating, and building meaningful projects.
  <br>
 
 
