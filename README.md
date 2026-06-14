@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Chinmay Sethi
+# 👋 Hi, I'm Chinmay 
 
  Aspiring Software Engineer passionate about building scalable applications and strengthening my problem-solving skills through Data Structures & Algorithms.
 
